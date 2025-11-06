@@ -96,7 +96,6 @@ Name: Mohd Wasim
 Email: wasim@example.com
 Password: Wasim@123
 Confirm Password: Wasim@123
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/728a6cca-b1d9-4c79-ba6a-157e7f036447" />
 
-
-## 📂 Project Structure
 
